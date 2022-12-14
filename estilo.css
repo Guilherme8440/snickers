@@ -1,0 +1,56 @@
+body{
+    background-color:#984a0ad3 ;
+    color: #61200c;
+}
+h1{
+font-size: 80px;
+    color:rgba(15, 15, 113, 0.952) ;
+    font-family: 'Creepster', cursive;
+    margin-top: 200px;
+
+
+
+}
+img{
+    height: 350px;
+}
+.chocolate{
+    display:flex;
+    justify-content: space-around;
+}
+p{
+    color:#d3c30c ;
+    font-size: 30px;
+    font-family: 'Creepster', cursive;
+ position: relative ;
+ top: -0px;
+ left: 80px;
+ 
+}
+.snickers1{
+font-size: 30px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+.snickers3{
+font-size: 80px;
+font-family:fantasy;
+left: 800px;
+margin-top: -190px;
+}
+.snickers4{
+    font-size: 40px;
+
+    left: 875px;
+    margin-top: -100px;
+    color: #072973d4;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin-top: -70px;
+}
+.snickers5{
+    font-size: 100px;
+    left: 820px;
+    margin-top: -80px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
